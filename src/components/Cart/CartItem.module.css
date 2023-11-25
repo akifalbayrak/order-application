@@ -1,7 +1,8 @@
 .item {
   margin: 1rem 0;
-  background-color: #575757;
+  background-color: #7325cc;
   padding: 1rem;
+  border-radius: 10px;
 }
 
 .item h3 {
