@@ -11,10 +11,13 @@ This is a simple React app that allows you to add products to a shopping cart an
 
 ## How to run
 
-- Clone this repository and run `npm install` to install the dependencies.
-- Create a Firebase project and enable the Realtime Database feature.
-- Copy the Firebase configuration object and paste it in the `src/firebase.js` file.
-- Run `npm start` to start the development server and open the app in your browser.
+- Clone the repository or download the zip file and extract it.
+- Open a terminal and navigate to the project folder.
+- Run npm install to install the dependencies.
+- Run npm install react react-redux to install the dependencies.
+- Run npm install @reduxjs/toolkit to install the dependencies.
+- Run npm start to start the development server.
+- Open your browser and go to http://localhost:3000 to see the app in action.
 
 ![main page](image.png)
 ![main page photo 2](image-1.png)
